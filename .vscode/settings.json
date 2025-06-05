@@ -5,5 +5,7 @@
   },
   "files.associations": {
     "*.sql": "sql"
-  }
+  },
+  "IDX.aI.enableInlineCompletion": true,
+  "IDX.aI.enableCodebaseIndexing": true
 }

@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
-import { corsMiddleware, addCorsHeaders } from '@/lib/security/cors'
-import { env } from '@/lib/env'
+import { corsMiddleware, addCorsHeaders } from '@/src/lib/security/cors'
+import { env } from '@/src/lib/env'
 
 /**
  * Security headers configuration
